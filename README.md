@@ -1,7 +1,13 @@
-Comprobación de permisos de administrador.
+# Instalación automatizada de OpenLDAP
 
-Verificación de instalación de OpenLDAP.
+## Requisitos
+- Sistemas basados en Debian
+- Permisos de administrador
 
-Instalación automática si no está presente.
-
-Configuración del nombre de dominio y unidades organizativas.
+## Uso
+Ejecutar el siguiente comando:
+```bash
+sudo bash install_openldap.sh
+3. Verifica los archivos con:
+```bash
+ls
